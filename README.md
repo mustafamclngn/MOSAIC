@@ -13,7 +13,7 @@
 
 </div>
 
-**MOSAIC** is a web-based student managemnt system application designed to manage student records efficiently and accurately. It provides a centralized platform for maintaining student, program, and college information with full CRUD functionality, advanced searching, sorting, and pagination.
+**MOSAIC** is a web-based student management system application designed to manage student records efficiently and accurately. It provides a centralized platform for maintaining student, program, and college information with full CRUD functionality, advanced searching, sorting, and pagination.
 
 This system is built using **HTML/CSS**, **Vanilla JavaScript**, **Flask**, and **PostgreSQL**, with **Supabase Storage (Bucket)** used for uploading and storing student photos.
 
